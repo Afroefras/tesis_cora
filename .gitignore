@@ -3,6 +3,7 @@
 *.hea
 *.wav
 *.csv
+.DS_Store
 
 data/training-a/.MD5SUMS-
 data/training-a/.newsums
