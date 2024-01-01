@@ -61,3 +61,4 @@ data/training-f/RECORDS-abnormal
 data/training-f/RECORDS-normal
 data/training-f/SHA1SUMS
 data/training-f/SHA256SUMS
+*.pyc
