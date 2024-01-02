@@ -12,6 +12,7 @@ scipy = "==1.11.4"
 matplotlib = "==3.8.2"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
