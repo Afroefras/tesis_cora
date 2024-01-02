@@ -8,6 +8,8 @@ numpy = "==1.26"
 black = "==23.12.1"
 flake8 = "==6.1.0"
 torch = "==2.1.2"
+scipy = "==1.11.4"
+matplotlib = "==3.8.2"
 
 [dev-packages]
 
